@@ -1,0 +1,6 @@
+---------------BUG REPORT---------------
+Title: Observed UMAC, LMAC, and driver assert when the platform resumes from S4.
+Platform: Arrow Lake(ARL-H)
+OS Version: Windows 11, 24H2(WW22'3.25)(CORP)
+Driver Version: 99.0.99.1
+Bug Description: Observed recoverable FATAL ERROR(UMAC, LMAC1 AND LMAC2, and Driver Assert-0x2D87, log is valid) when the platform resumes from S4 state before connecting to AP.
