@@ -1,6 +1,6 @@
 # Suvradeep Portfolio
 
-This portfolio showcases hands-on projects built as part of my transformation journey toward a ₹25–30 LPA tech role.
+Hands-on portfolio built with Python, Excel, and Power BI — showcasing real-world tools, dashboards, and automation scripts developed as part of a structured career transformation plan.
 
 ## 🔹 Python Projects
 - Smart Billing System
