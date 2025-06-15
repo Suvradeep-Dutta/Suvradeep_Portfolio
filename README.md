@@ -6,6 +6,7 @@ Hands-on portfolio built with Python, Excel, and Power BI — showcasing real-wo
 - Smart Billing System
 - Receipt Generator
 - Bug Report Formatter
+- CSV Sales Report → Automated revenue summary using GST & discount from external CSV input
 
 ## 🔹 Excel Dashboards
 - Sales Dashboard
