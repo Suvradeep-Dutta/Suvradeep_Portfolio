@@ -1,0 +1,21 @@
+﻿Bug ID,Module,Severity,Status
+101,Wi-Fi,High,Open
+102,USB,Medium,Closed
+103,BT,Low,In Progress
+104,Wi-Fi,High,Closed
+105,USB,Low,Open
+106,BT,Medium,In Progress
+107,Wi-Fi,Medium,In Progress
+108,BT,High,Closed
+109,USB,High,Open
+110,Wi-Fi,Low,Closed
+111,BT,High,Open
+112,USB,Medium,In Progress
+113,Wi-Fi,High,Open
+114,BT,Medium,Closed
+115,USB,Low,In Progress
+116,Wi-Fi,Medium,Closed
+117,BT,Low,Open
+118,USB,High,Closed
+119,Wi-Fi,Medium,Open
+120,BT,Medium,Open
