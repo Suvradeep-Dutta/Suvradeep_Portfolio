@@ -1,0 +1,4 @@
+Item,Units,Price,GST (%),Discount (%)
+Pen,10,15,18,5
+Notebook,5,50,18,10
+Pencil,20,5,5,0
