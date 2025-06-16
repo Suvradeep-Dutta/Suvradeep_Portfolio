@@ -17,7 +17,8 @@ Hands-on portfolio built with Python, Excel, and Power BI — showcasing real-wo
 
 ## 🔹 Power BI Visualizations
 - **Revenue by Item Dashboard** → Bar chart visualizing final price with GST for each item, built from Excel data.
+- **Bug Reporting Dashboard** – Visualizes 60+ test bugs across modules, platforms, and severity levels to support product and QA decisions.
 
 ## 🔹 QA & Bug Reporting
 - **Mock bug report: Wi-Fi Resume Issue (Intel-style format)** → Portfolio-ready bug report written in industry-standard structure, including logs and reproduction steps.
-- **Bug Reporting Dashboard** – Visualizes 60+ test bugs across modules, platforms, and severity levels to support product and QA decisions.
+
