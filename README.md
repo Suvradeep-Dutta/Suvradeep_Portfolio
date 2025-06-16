@@ -14,6 +14,7 @@ Hands-on portfolio built with Python, Excel, and Power BI — showcasing real-wo
 - **Smart Billing with Discount + GST** → Calculates item-wise final prices with GST and discount.
 - **Bug Summary Dashboard** → Pivot-based Excel report showing bug count by module, severity, and status.
 - **bug_report_data** → Clean, structured dataset of 60 QA bugs by platform, severity, and module. Used for Power BI automation and dashboarding.
+- **Wi-Fi Bug Dashboard** → Visual analysis of QA issues across modules, severity, and platforms using PivotTables and Excel filters.
 
 ## 🔹 Power BI Visualizations
 - **Revenue by Item Dashboard** → Bar chart visualizing final price with GST for each item, built from Excel data.
