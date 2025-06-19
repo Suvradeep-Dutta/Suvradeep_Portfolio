@@ -1,0 +1,31 @@
+Subject: [Bug] Observed recoverable assert- 0x20103026 after platform resumes from S4 state.
+
+Hi team,
+
+During Wi-Fi validation, a recoverable assert (0x20103026) was observed consistently after resuming from S4 (Hibernate) state.
+
+Configuration:
+Platform: Test Platform
+Hardware: Test NIC
+OS: Windows 11, 24H2
+Driver Version: 23.6.0.2
+Test Case: S4
+
+
+Assert Code-> 0x20103026
+
+User Impact:
+- Wi-Fi driver crashes post-resume.
+- Adapter fails to initialize; user is unable to connect to any network.
+
+Steps to reproduce: 
+[Please insert exact steps here — preconditions, steps to enter S4, and resume process]
+
+Logs and E-Fireman:
+[Insert log file path and E-Fireman link or JIRA reference here]
+
+Thanks,
+Suvradeep Dutta
+Wi-Fi QA | L&T Technology Services
+
+ 
