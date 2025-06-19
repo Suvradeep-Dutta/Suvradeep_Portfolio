@@ -1,6 +1,6 @@
 # Suvradeep Portfolio
 
-Hands-on portfolio built with Python, Excel, and Power BI — showcasing real-world tools, dashboards, and automation scripts developed as part of a structured career transformation plan.
+Hands-on portfolio built with Python, Excel, Power BI, SQL, and QA tools — featuring dashboards, automation scripts, bug reports, and technical communication created as part of a structured career transformation plan.
 
 ## 🔹 Python Projects
 - **Smart Billing System** →  Item-wise billing logic with discount, GST, and total price calculation using loops and dictionaries.
@@ -22,4 +22,10 @@ Hands-on portfolio built with Python, Excel, and Power BI — showcasing real-wo
 
 ## 🔹 QA & Bug Reporting
 - **Mock bug report: Wi-Fi Resume Issue (Intel-style format)** → Portfolio-ready bug report written in industry-standard structure, including logs and reproduction steps.
+- **bug_report_email.txt** – Formal bug escalation email for Wi-Fi resume failure. Demonstrates structured QA-to-dev communication and real-world test impact reporting.
+
+## 🔹 SQL
+- **sales_analysis_queries** → Initializes a structured sales dataset for query-based analysis and testing.
+
+
 
