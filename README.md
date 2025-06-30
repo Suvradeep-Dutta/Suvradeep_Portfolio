@@ -26,6 +26,7 @@ Hands-on portfolio built with Python, Excel, Power BI, SQL, and QA tools — fea
 - **Bug Reporting Dashboard** – Visualizes 60+ test bugs across modules, platforms, and severity levels to support product and QA decisions.
 - **phonepe_ops_dashboard.pbix** — Interactive Power BI report of merchant KPIs (on-boarding, GMV, KYC, refunds).
 - **Operations KPI Dataset** → Excel source data feeding the PhonePe dashboard
+- **Monthly Sales Dashboard** → A clean, interactive Power BI dashboard showcasing product-wise, region-wise, and time-wise sales trends. Includes KPI cards, slicers, and data drilldowns for business-level reporting.
 
 ## 🔹 QA & Bug Reporting
 - **Mock bug report: Wi-Fi Resume Issue (Intel-style format)** → Portfolio-ready bug report written in industry-standard structure, including logs and reproduction steps.
