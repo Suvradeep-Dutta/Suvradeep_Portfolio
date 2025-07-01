@@ -35,5 +35,8 @@ Hands-on portfolio built with Python, Excel, Power BI, SQL, and QA tools — fea
 ## 🔹 SQL
 - **sales_analysis_queries** → Initializes a structured sales dataset for query-based analysis and testing.
 
-
+## 🔹 SCreenShots
+| Dashboard / Script | Preview |
+|--------------------|---------|
+| **Monthly Sales Dashboard (Power BI)** | <img src="Screenshots/PowerBI_monthyly_sales_dashboard.png" width="550"/> |
 
