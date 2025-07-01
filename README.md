@@ -36,12 +36,14 @@ Hands-on portfolio built with Python, Excel, Power BI, SQL, and QA tools — fea
 - **sales_analysis_queries** → Initializes a structured sales dataset for query-based analysis and testing.
 
 ## 🔹 ScreenShots
+  📸 Project Highlights
 | Dashboard / Script | Preview |
 |--------------------|---------|
 | **Monthly Sales Dashboard (Power BI)** | <img src="ScreenShot/PowerBI_monthyly_sales_dashboard.png" width="550"/> |
 | **PhonePe Ops KPI Dashboard (Power BI)** | <img src="ScreenShot/PowerBI_phonepe_ops_dashboard.png" width="550"/> |
 | **Smart Billing System (Python)** | <img src="ScreenShot/Smart Billing.png" width="550"/> |
 | **Bug Summary Automation (Python)** | <img src="ScreenShot/Python_Bug_Summary Report.png" width="550"/> |
+| **Sales Dashboard (Excel)** | <img src="ScreenShot/Sales_Dashboard.png" width="550"/> |
 | **Wi-Fi Bug Dashboard (Excel)** | <img src="ScreenShot/Excel_wifi_bug_dashboard.png" width="550"/> |
 | **Sales Analysis Queries (SQL)** | <img src="ScreenShot/SQL_sales_analysis_queries.png" width="550"/> |
 
