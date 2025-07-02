@@ -36,6 +36,8 @@ Hands-on portfolio built with Python, Excel, Power BI, SQL, and QA tools — fea
 - **sales_analysis_queries** → Initializes a structured sales dataset for query-based analysis and testing.
 - **create_sales_schema** → SQL script to define the sales data schema with columns for product, region, price, and date, used across analysis tasks.
 - **sales_insight_queries** → 10 interview‑style queries covering GMV, product / region breakdowns, and month‑over‑month growth on the SalesData table.
+- **employee_project_data.csv** → Raw dataset used for SQL-based employee and project analysis.
+- **Employee Project Analysis** → 10 queries covering salary, headcount, and project KPIs.
 
 ## 🔹 ScreenShots
   📸 Project Highlights
