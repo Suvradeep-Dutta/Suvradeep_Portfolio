@@ -4,7 +4,7 @@ import pandas as pd
 df = pd.read_csv("employee_project_data.csv")
 
 # Step 2: Remove rows with missing employee or salary info
-df_clean = df.dropna(subset=["Employee_Name", "Department", "Project", "Slary"])
+df_clean = df.dropna(subset=["Employee_Name", "Department", "Project", "Salary"])
 df_clean["Salary"] = pd.to_numeric(df_clean["Salary"], errors = 'coerce' )
 df_clean = df_clean.dropna(subset = ["Salary"]).reset_index(drop= True)
 
