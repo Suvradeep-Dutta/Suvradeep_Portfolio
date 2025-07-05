@@ -13,6 +13,9 @@ Hands-on portfolio built with Python, Excel, Power BI, SQL, and QA tools — fea
 - **monthly_sales_data.xlsx** → sample daily sales log (raw input)
 - **monthly_sales_summary.py** → script that cleans & summarizes sales data
 - **monthly_sales_report.xlsx** → single‑workbook output with cleaned and summary sheets
+- **employee_project_data.csv** → Raw dataset of employees, departments, projects, and salaries used for report automation.
+- **employee_summary_script.py** → Python script that reads, analyzes, and exports a multi-sheet Excel report from the employee dataset.
+- **employee_summary_report.xlsx** → Final structured report showing salaries, top earners, project stats, and department summaries.
 
 ## 🔹 Excel Dashboards
 - **Sales Dashboard** → Tracks revenue by product with auto charts.
