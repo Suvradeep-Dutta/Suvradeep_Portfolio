@@ -32,6 +32,7 @@ Hands-on portfolio built with Python, Excel, Power BI, SQL, and QA tools — fea
 - **phonepe_ops_dashboard.pbix** — Interactive Power BI report of merchant KPIs (on-boarding, GMV, KYC, refunds).
 - **Operations KPI Dataset** → Excel source data feeding the PhonePe dashboard
 - **Monthly Sales Dashboard** → Interactive dashboard analyzing Q1 sales by product, region, and month with KPI cards, slicers, and clean visual formatting.
+- **median_salary_to_powerbi.pbix** → Simple Power BI visual showing median salary by department from Python-exported Excel.
 
 ## 🔹 QA & Bug Reporting
 - **Mock bug report: Wi-Fi Resume Issue (Intel-style format)** → Portfolio-ready bug report written in industry-standard structure, including logs and reproduction steps.
