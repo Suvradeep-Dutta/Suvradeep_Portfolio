@@ -20,6 +20,9 @@ Hands-on portfolio built with Python, Excel, Power BI, SQL, and QA tools — fea
 - **employee_sales_data.csv** → Raw sales data used for filtering and sorting tasks.
 - **csv_filter_sort.py** → Filters sales > 20 k from employee dataset, sorts by sales, and exports to Excel.
 - **filtered_sorted_sales.xlsx** → Resulting file with high‑performing sales employees.
+- **expense_data.csv** → Sample personal‑expense dataset used for the tracker script.
+- **expense_tracker.py** → Generates monthly and category expense summaries and exports a multi‑sheet Excel report.
+- **expense_report.xlsx** → Automated expense report with cleaned data, monthly totals, category totals, and pivot table.
 
 ## 🔹 Excel Dashboards
 - **Sales Dashboard** → Tracks revenue by product with auto charts.
