@@ -17,6 +17,9 @@ Hands-on portfolio built with Python, Excel, Power BI, SQL, and QA tools — fea
 - **employee_summary_script.py** → Python script that reads, analyzes, and exports a multi-sheet Excel report from the employee dataset.
 - **employee_summary_report.xlsx** → Final structured report showing salaries, top earners, project stats, and department summaries.
 - **median_salary_export.py** → Exports median salary by department from a cleaned employee dataset to Excel.
+- **employee_sales_data.csv** → Raw sales data used for filtering and sorting tasks.
+- **csv_filter_sort.py** → Filters sales > 20 k from employee dataset, sorts by sales, and exports to Excel.
+- **filtered_sorted_sales.xlsx** → Resulting file with high‑performing sales employees.
 
 ## 🔹 Excel Dashboards
 - **Sales Dashboard** → Tracks revenue by product with auto charts.
