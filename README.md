@@ -42,6 +42,8 @@ Hands-on portfolio built with Python, Excel, Power BI, SQL, and QA tools — fea
 - **median_salary_to_powerbi.pbix** → Simple Power BI visual showing median salary by department from Python-exported Excel.
 - **region_product_sales.csv** → Sample transaction dataset (100 rows) used for regional sales KPI and trend analysis.
 - **regional_sales_dashboard.pbix** → Interactive dashboard tracking revenue, units sold and transaction count by region, month and product category (Power BI).
+- **expense_dashboard.pbix** → Power BI dashboard visualizing monthly expense trends and category breakdown.
+- **expense_data.csv** → Sample expense dataset powering the dashboard.
 
 ## 🔹 QA & Bug Reporting
 - **Mock bug report: Wi-Fi Resume Issue (Intel-style format)** → Portfolio-ready bug report written in industry-standard structure, including logs and reproduction steps.
