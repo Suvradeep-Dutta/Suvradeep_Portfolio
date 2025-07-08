@@ -19,7 +19,7 @@ df = pd.read_csv("expense_data.csv")
 # Step 2: Clean and prepare the data
 df["Date"]= pd.to_datetime(df["Date"])
 df["Amount"]= pd.to_numeric(df["Amount"], errors='coerce')
-df= df.dropna(subset=["Amount", "Category"])
+df= df.dropna(subset=["Amount", "Category"]).reset_index(drop=True)
 
 # Step 3: Add Year‑Month column
 df["YearMonth"] = df["Date"].dt.to_period("M").astype('str')
