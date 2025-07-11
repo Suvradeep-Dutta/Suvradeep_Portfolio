@@ -23,6 +23,9 @@ Hands-on portfolio built with Python, Excel, Power BI, SQL, and QA tools — fea
 - **expense_data.csv** → Sample personal‑expense dataset used for the tracker script.
 - **expense_tracker.py** → Generates monthly and category expense summaries and exports a multi‑sheet Excel report.
 - **expense_report.xlsx** → Automated expense report with cleaned data, monthly totals, category totals, and pivot table.
+- **attendance_data.csv** → Raw check-in records for employees across dates, used to calculate attendance and absence summaries.
+- **attendance_summary.py** → Python script that processes attendance logs, calculates per-employee metrics, and generates a multi-sheet summary report.
+- **attendance_report.xlsx** → Final report with cleaned attendance data, days present, absentees, and full-attendance employees — neatly organized into separate sheets.
 
 ## 🔹 Excel Dashboards
 - **Sales Dashboard** → Tracks revenue by product with auto charts.
