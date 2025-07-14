@@ -35,6 +35,7 @@ Hands-on portfolio built with Python, Excel, Power BI, SQL, and QA tools — fea
 - **Wi-Fi Bug Dashboard** → Visual analysis of QA issues across modules, severity, and platforms using PivotTables and Excel filters.
 - **employee_median_salary.xlsx** → One-sheet Excel report of median salaries by department, generated via Python.
 - **employee_kpi_data** → Visual KPIs for project load, satisfaction, deadlines, and training by department using PivotTables and charts.
+- product_quality_data.xlsx → Pivot-based Excel report analyzing inspector scores and status trends.
 
 ## 🔹 Power BI Visualizations
 - **Revenue by Item Dashboard** → Bar chart visualizing final price with GST for each item, built from Excel data.
