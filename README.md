@@ -26,6 +26,9 @@ Hands-on portfolio built with Python, Excel, Power BI, SQL, and QA tools — fea
 - **attendance_data.csv** → Raw check-in records for employees across dates, used to calculate attendance and absence summaries.
 - **attendance_summary.py** → Python script that processes attendance logs, calculates per-employee metrics, and generates a multi-sheet summary report.
 - **attendance_report.xlsx** → Final report with cleaned attendance data, days present, absentees, and full-attendance employees — neatly organized into separate sheets.
+- **inventory_data.csv** → Raw inventory dataset used for automation and reporting.
+- **inventory_reorder_report.py** → Python script that cleans inventory data, calculates stock value, and flags low-stock items.
+- **inventory_report.xlsx** → Auto-generated Excel report with full inventory and a filtered sheet for items needing reorder.
 
 ## 🔹 Excel Dashboards
 - **Sales Dashboard** → Tracks revenue by product with auto charts.
